@@ -126,3 +126,6 @@ PORT SCANNING/
 Only scan hosts you own or have **explicit written permission** to test.  
 Unauthorized port scanning may be illegal in your jurisdiction.  
 This tool is intended for educational and authorised security testing purposes only.
+"FOR KALI"
+(source venv/bin/activate
+python main.py)
